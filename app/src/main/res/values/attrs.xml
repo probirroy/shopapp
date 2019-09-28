@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="title" format="string" />
+    <attr name="src" format="reference" />
+
+    <declare-styleable name="DrawerItem">
+        <attr name="src" />
+        <attr name="title" />
+    </declare-styleable>
+
+    <declare-styleable name="AddressContentItem">
+        <attr name="withName" format="boolean" />
+    </declare-styleable>
+
+</resources>
